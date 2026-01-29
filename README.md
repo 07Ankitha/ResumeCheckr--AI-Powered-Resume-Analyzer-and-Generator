@@ -82,9 +82,6 @@ ResumeCheckr is a modern web app that helps users improve their resumes using AI
 ![Resume Creation](public/screenshots/create.png)
 *Create the best resume using the best template*
 
-### Resume Preview
-![Resume Preview](public/screenshots/preview.png)
-*The Preview of the Resume*
 
 ### Templates
 ![Templates](public/screenshots/templates.png)
